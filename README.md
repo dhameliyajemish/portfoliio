@@ -1,44 +1,59 @@
-# vCard - Personal portfolio
+# Jemish Dhameliya - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![Portfolio Desktop Demo](./website-demo-image/desktop.png)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+A professional, responsive, and modern personal portfolio website built with HTML, CSS, and JavaScript. This vCard-style portfolio showcases my skills, education, projects, and contact information.
 
-## Demo
+## 🚀 Features
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- **Responsive Design**: Optimized for all devices (Desktop, Tablet, Mobile).
+- **Interactive Navigation**: Seamless transitions between sections (About, Resume, Skills, Portfolio, Contact).
+- **Dynamic Sidebar**: Collapsible sidebar for quick access to contact details and social links.
+- **Skill Progress Bars**: Visual representation of technical expertise.
+- **Project Showcase**: Display of recent web development and design projects.
+- **Contact Form**: Functional UI for potential collaborations.
+- **Google Maps Integration**: Location visualization.
 
-## Prerequisites
+## 🛠️ Tech Stack
 
-Before you begin, ensure you have met the following requirements:
+- **Frontend**: HTML5, CSS3 (Vanilla), JavaScript (ES6+)
+- **Icons**: [IonIcons](https://ionicons.com/)
+- **Fonts**: Google Fonts (Poppins)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 📁 Project Structure
 
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```text
+├── assets/
+│   ├── css/        # Custom styles
+│   ├── images/     # Project images, avatars, and icons
+│   └── js/         # Interactive functionality
+├── website-demo-image/ # Desktop and Mobile previews
+├── index.html      # Main entry point
+└── README.md       # Project documentation
 ```
 
-Windows:
+## 👨‍💻 About Me
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+I'm a dedicated **Full Stack Developer** and **UI/UX Designer** from Surat, India. I specialize in crafting modern web applications that blend aesthetic elegance with technical excellence. Currently pursuing my Bachelor's degree and honing my skills in the MERN stack.
 
-## Contact
+### Skills
+- **Frontend**: HTML, CSS, Bootstrap, React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, PostgreSQL
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+## 🌐 Live Demo
 
-## License
+You can view the project previews here:
+- [Desktop Preview](./website-demo-image/desktop.png)
+- [Mobile Preview](./website-demo-image/mobile.png)
 
-MIT
+## 📬 Contact
+
+- **Email**: [dhameliyajemish92@gmail.com](mailto:dhameliyajemish92@gmail.com)
+- **LinkedIn**: [Jemish Dhameliya](https://www.linkedin.com/in/jemish-dhameliya-54aa64319/)
+- **GitHub**: [@dhameliyajemish](https://github.com/dhameliyajemish)
+- **WhatsApp**: [+91 9313683554](https://wa.me/9313683554)
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
