@@ -1,7 +1,5 @@
 # Jemish Dhameliya - Personal Portfolio
 
-![Portfolio Desktop Demo](./website-demo-image/desktop.png)
-
 A professional, responsive, and modern personal portfolio website built with HTML, CSS, and JavaScript. This vCard-style portfolio showcases my skills, education, projects, and contact information.
 
 ## 🚀 Features
