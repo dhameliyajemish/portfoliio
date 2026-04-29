@@ -315,7 +315,7 @@ article.active {
 
 main {
   margin: 15px 12px;
-  margin-top: 15px;
+  margin-top: 85px;
   min-width: 259px;
 }
 
@@ -468,16 +468,15 @@ main {
 \*-----------------------------------*/
 
 .navbar {
-  position: sticky;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   background: hsla(240, 1%, 17%, 0.75);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
-  border-radius: 20px;
+  border-radius: 0 0 20px 20px;
   box-shadow: var(--shadow-2);
-  margin-bottom: 25px;
   z-index: 100;
 }
 
@@ -1347,7 +1346,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    margin-top: 30px;
+    margin-top: 100px;
     margin-bottom: 30px;
   }
 
@@ -1716,6 +1715,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main { 
+    margin-top: 30px;
     margin-bottom: 60px; 
     position: relative;
   }
