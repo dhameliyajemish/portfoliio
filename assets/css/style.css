@@ -468,16 +468,17 @@ main {
 \*-----------------------------------*/
 
 .navbar {
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
   background: hsla(240, 1%, 17%, 0.75);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
-  border-radius: 20px 20px 0 0;
+  border-radius: 20px;
   box-shadow: var(--shadow-2);
-  z-index: 5;
+  margin-bottom: 25px;
+  z-index: 100;
 }
 
 .navbar-list {
@@ -1714,7 +1715,10 @@ textarea.form-input::-webkit-resizer { display: none; }
    * MAIN 
    */
 
-  main { margin-bottom: 60px; }
+  main { 
+    margin-bottom: 60px; 
+    position: relative;
+  }
 
   .main-content {
     position: relative;
